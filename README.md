@@ -13,8 +13,8 @@ Building/Running the Project
 ============================
 
 In order to build the project, you must have the Java Development Kit (JDK) installed. The Java Runtime
-Environment (JRE) will not do. You can build the project into a JAR file by running the "Make.bat" script
-in the source directory. If you would just like to compile it, run the command "javac *.java".
+Environment (JRE) alone will not do. You can build the project into a JAR file by running the "Make.bat"
+script in the source directory. If you would just like to compile it, run the command "javac *.java".
 
 In order to run the project, you have to do one of 3 things. If you built the project using the Make
 script, you can just run the JAR file by double clicking it. If you built the project into source files,
